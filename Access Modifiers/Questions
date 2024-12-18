@@ -9,3 +9,4 @@ Public, Private, Protected.
 
 1. Create a Library class with a protected attribute _books (a list of book titles). Implement methods to add a book and display the list of books. Access _books from a subclass CommunityLibrary to display the number of books available.
 2. Create a Vehicle class with a protected attribute _fuel_capacity and a method to display the fuel capacity. Then, create a subclass Car that adds a method to refuel the car and display the updated fuel capacity.
+3. Create a Bank class with a protected attribute _balance and methods to deposit money and display the current balance. Then, create a subclass SavingsAccount that adds a method to apply interest to the balance.
