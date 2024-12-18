@@ -8,3 +8,4 @@ Public, Private, Protected.
 -- Protected Access Modifier:
 
 1. Create a Library class with a protected attribute _books (a list of book titles). Implement methods to add a book and display the list of books. Access _books from a subclass CommunityLibrary to display the number of books available.
+2. Create a Vehicle class with a protected attribute _fuel_capacity and a method to display the fuel capacity. Then, create a subclass Car that adds a method to refuel the car and display the updated fuel capacity.
