@@ -1,6 +1,10 @@
 Three Access modifiers are available:
 Public, Private, Protected.
 
-  1. Public Access Modifier
-Question:
-Create a Book class with public attributes title, author, and price. Implement a method show_details() to print the book details. Create an instance and access the attributes and method directly.
+-- Public Access Modifier
+
+1. Create a Book class with public attributes title, author, and price. Implement a method show_details() to print the book details. Create an instance and access the attributes and method directly.
+
+-- Protected Access Modifier:
+
+1. Create a Library class with a protected attribute _books (a list of book titles). Implement methods to add a book and display the list of books. Access _books from a subclass CommunityLibrary to display the number of books available.
