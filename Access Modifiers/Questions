@@ -1,1 +1,6 @@
+Three Access modifiers are available:
+Public, Private, Protected.
 
+  1. Public Access Modifier
+Question:
+Create a Book class with public attributes title, author, and price. Implement a method show_details() to print the book details. Create an instance and access the attributes and method directly.
