@@ -1,1 +1,2 @@
 1. Perform inheritance for Animal class.
+2. Create a base class Employee with name, salary, and a display_info() method. Derive Manager (adds department) and Developer (adds programming_language), both overriding display_info(). Instantiate them and display their details and salaries.
