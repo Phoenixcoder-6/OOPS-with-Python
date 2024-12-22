@@ -1,1 +1,2 @@
 1. Write a Python class named Calculator that demonstrates method overloading to perform different operations based on the number of arguments provided to the same method.
+2. The problem involves creating an Employee class with a get_details() method that demonstrates method overloading using default arguments.
