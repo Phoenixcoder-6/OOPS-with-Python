@@ -1,1 +1,1 @@
-
+1. Write a Python class named Calculator that demonstrates method overloading to perform different operations based on the number of arguments provided to the same method.
