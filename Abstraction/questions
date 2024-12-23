@@ -1,3 +1,4 @@
 * Questions *
 1. Calculate the area and perimeter of a circle and a rectangle using abstraction.
 2. Create an abstract class Vehicle with abstract methods start() and stop(). Then, create two subclasses: Car and Bike, which implement these methods to describe how each vehicle starts and stops. Finally, instantiate both classes and call their start() and stop() methods.
+3. Implement multiple inheritance in an interface.
