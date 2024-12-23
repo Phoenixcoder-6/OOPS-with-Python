@@ -2,3 +2,8 @@
 1. Calculate the area and perimeter of a circle and a rectangle using abstraction.
 2. Create an abstract class Vehicle with abstract methods start() and stop(). Then, create two subclasses: Car and Bike, which implement these methods to describe how each vehicle starts and stops. Finally, instantiate both classes and call their start() and stop() methods.
 3. Implement multiple interface in a class.
+4.Design an interface Payment using Python's abstract base class. The interface should declare a method process_payment(amount).
+
+Then, create three classes (CreditCardPayment, DebitCardPayment, and PayPalPayment) that implement the Payment interface. Each class should define its own implementation of the process_payment method.
+
+Finally, write a function that accepts a Payment object and processes a payment of a specified amount, demonstrating how different payment methods can be used interchangeably.
