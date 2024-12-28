@@ -13,3 +13,4 @@ Public, Private, Protected.
 
 -- Private Access Modifier:
 1. Create a BankAccount class with a private balance. Implement methods to deposit, withdraw, and show balance. Ensure that the balance cannot be accessed directly from outside the class.
+2. 
