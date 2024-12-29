@@ -7,3 +7,4 @@ Then, create three classes (CreditCardPayment, DebitCardPayment, and PayPalPayme
 Each class should define its own implementation of the process_payment method.
 Finally, write a function that accepts a Payment object and processes a payment of a specified amount, demonstrating how different payment methods can be used interchangeably.
 5. 
+6.
